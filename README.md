@@ -1,4 +1,4 @@
-# Undangan Online 2
+# Undangan Online Agung & Siti
 
 - Undangan online ini adalah undangan pernikahan atau syukuran yang dimana pada website ini hanya untuk memberikan sebuah informasi mengenai pernikahan
 
