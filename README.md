@@ -4,14 +4,12 @@
 
 - Tampilan Undangan
 
-  ![Hasil Screenshot](./screenshoot/w2.png)
+  ![Hasil Screenshot](./screenshoot/AS.jpg)
 
 # Bahasa Pemrograman yang digunakan
 
 - HTML
 - CSS
-
----
 
 # Fitur 1 Halaman
 
